@@ -1,4 +1,4 @@
-package main.java.uk.ac.mmu.game.dice;
+package uk.ac.mmu.game.domain.dice;
 import java.util.Random;
 
 public class Die implements DiceRoller {

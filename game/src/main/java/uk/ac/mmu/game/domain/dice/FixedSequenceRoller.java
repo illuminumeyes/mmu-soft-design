@@ -1,4 +1,4 @@
-package main.java.uk.ac.mmu.game.dice;
+package uk.ac.mmu.game.domain.dice;
 import java.util.List;
 
 // This class used for demonstrating game variations with Exact End, Hit and TP rules
